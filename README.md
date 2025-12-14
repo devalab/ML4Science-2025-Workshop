@@ -2,6 +2,18 @@
 
 This repository contains all the notebooks for the ML4Science 2025 Workshop.
 
+## Getting Started with Google Colab
+
+If you're new to Google Colab, watch this helpful tutorial: [Introduction to Google Colab](https://youtu.be/RLYoEyIHL6A)
+
+### How to Run the Notebooks
+
+1. Download the notebook from this GitHub repository to your local system
+2. Go to [Google Colab](https://colab.research.google.com/)
+3. Upload the notebook: `File → Upload notebook` and select the downloaded file
+4. Choose your runtime: `Runtime → Change runtime type` and select CPU or GPU as needed
+5. Run the cells sequentially using `Shift + Enter` or run them all together using the commands from the menu.
+
 ## Notebooks
 
 ### Introductory Notebook
