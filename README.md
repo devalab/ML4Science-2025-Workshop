@@ -14,6 +14,10 @@ If you're new to Google Colab, watch this helpful tutorial: [Introduction to Goo
 4. Choose your runtime: `Runtime → Change runtime type` and select CPU or GPU as needed
 5. Run the cells sequentially using `Shift + Enter` or run them all together using the commands from the menu.
 
+## Datasets
+
+Some notebooks required you to download and upload datasets to Google Colab manually. You can find all such datasets in this [Google Drive folder](https://drive.google.com/drive/folders/12btzOf8pJ32kyjQuh1RaYRytBAsFNDk8?usp=sharing).
+
 ## Notebooks
 
 ### Introductory Notebook
