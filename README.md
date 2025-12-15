@@ -21,3 +21,11 @@ If you're new to Google Colab, watch this helpful tutorial: [Introduction to Goo
 The introductory notebook covers Python fundamentals, NumPy, cheminformatics with RDKit, and basic PyTorch concepts. It's designed as pre-work to help you get familiar with the tools and concepts we'll use throughout the workshop.
 
 **Please work through this notebook at your own convenience before the workshop.** Don't worry if certain sections (especially PyTorch and neural networks) feel unclear—we'll cover all these topics in much greater detail during the workshop with additional notebooks and hands-on exercises. You can always revisit this material later as concepts become clearer!
+
+### Day 2
+
+#### Decision Trees Without Fingerprints
+
+- The Dataset we use for these notebooks is ESol.
+- In these notebooks, we will explore decision trees using raw molecular representations instead of traditional fingerprints.
+- We will learn to predict properties like LogS and LogP using decision trees.
